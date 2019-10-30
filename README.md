@@ -7,6 +7,9 @@
 
 University of Helsinki course repository
 
-https://ohjelmistotuotanto-hy.github.io/tehtavat1/
+Rest of the exercises
+
+https://github.com/jonitaajamo/ohtu-tehtavat
+
 
 
