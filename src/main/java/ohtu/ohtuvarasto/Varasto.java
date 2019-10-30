@@ -5,6 +5,7 @@ public class Varasto {
     // --- piilotettu tietorakenteen toteutus: ---
     private double tilavuus;  // paljonko varastoon mahtuu,  > 0
     private double saldo;     // paljonko varastossa on nyt, >= 0
+    // TODO: Graafinen kayttoliittyma
 
     // --- konstruktorit: ---
     public Varasto(double tilavuus) {  // tilavuus on annettava
