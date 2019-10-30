@@ -109,7 +109,7 @@ public class VarastoTest {
     @Test
     public void ottaminenLiikaaVieKaikenJaNollaaSaldon() {
         varasto.otaVarastosta(varasto.getSaldo() + 10.0);
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(1, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
